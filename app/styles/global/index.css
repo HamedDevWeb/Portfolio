@@ -1,6 +1,6 @@
 :root{
-  --primary-color: #A1E887;
-  --secondary-color: #44633F;
+  --primary-color: rgb(255,235,205);
+  --secondary-color: #270722;
   --background-color: #3D2C2E;
   --whyteSmoke-color: whitesmoke;
 }

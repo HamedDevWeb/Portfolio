@@ -20,14 +20,13 @@
     </header>
     <main>
         <div class="name">
-            <h1 >ATMANE Hamed</h1>
+            <h1 >Web Developpeur</h1>
         </div>
         <div class="content">
             <div>
                 <img src="./images/dev.avif" alt="">
             </div>
-            <h2>Web Developpeur</h2>
-            <h2></h2>
+            <h2>ATMANE Hamed</h2>
         </div>
     </main>
 </body>
