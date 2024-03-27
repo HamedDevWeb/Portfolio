@@ -1,0 +1,30 @@
+#infos {
+    padding: 6rem 5rem 7rem;
+    background: #a489c1;
+    color: black;
+}
+#infos h1 {
+    font-size: 3rem;
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 5rem;
+    
+}
+.description {
+    display: flex;
+    gap: 70px;
+    align-items: center;
+}
+.description p {
+    font-size: 1.5rem;
+    line-height: 40px;
+    padding-bottom: 25px;
+}
+.description img {
+    width: 250px;
+    height: 250px;
+    border-radius: 60%;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+
