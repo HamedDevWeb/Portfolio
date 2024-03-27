@@ -14,7 +14,7 @@
         <nav>
             <ul>
                 <li><a href="">Accueil</a></li>
-                <li><a href="">Projets</a></li>
+                <li><a href="./pages/projets.php">Projets</a></li>
                 <li><a href="">Formations</a></li>
                 <li><a href="">A Propos</a></li>
             </ul>
